@@ -69,7 +69,9 @@ end_date = start_date + datetime.timedelta(days=7)
 current_date = start_date
 
 # Initialize variables
-remaining_credit = 10  # Initial credit
+remaining_credit = 100  # Initial credit
+# remaining_credit = 10  # Initial credit  bypassed  iit send mail and sms
+
 consumed_units = 0
 
 # Simulate data for each day
