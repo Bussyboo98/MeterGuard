@@ -1,0 +1,10 @@
+Dear Admin,
+
+Prepaid Meter Bypass Detected
+
+Date: {current_date}
+Consumed Units: {consumed_units}
+Remaining Credit: {remaining_credit}
+
+
+Please take appropriate action.

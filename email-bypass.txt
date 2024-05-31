@@ -1,0 +1,16 @@
+Subject: Prepaid Meter Bypass Detected
+
+Dear Admin,
+
+This is to inform you that a prepaid meter bypass was detected on {current_date}.
+
+Details of the event:
+- Date: {current_date}
+- Consumed Units: {consumed_units}
+- Remaining Credit: {remaining_credit}
+
+
+Please take appropriate action to investigate and resolve the issue.
+
+Best regards,
+MeterGaurd
